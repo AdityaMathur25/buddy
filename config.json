@@ -1,0 +1,25 @@
+
+{
+  "YOUTUBE_API_KEY": "AIzaSyBib80rRfQdeL9JYKJEWtHqEIXrgnKIDPg",
+  "COLOR": "#00FFFF",
+  "Color": "#00FFFF",
+  "token": "NzM0Mjg5NjU1MzEwMDU3NDkz.XxPiiA.C_1pg7yzvBQ-NqjWo9jezSF10H4",
+  "QUEUE_LIMIT": "10",
+  "default_prefix": "!",
+  "embedcolor":"#00FFFF",
+ "approveemoji": "✅",
+
+  "denyemoji": "❎",
+
+  "erroremoji": "♻️",
+
+    "id": "734289655310057493",
+
+    "secret": "mAUK0SNwQoqd7R5M5tXfOgB1RJec6J34",
+ 
+  "clientSecret": "mAUK0SNwQoqd7R5M5tXfOgB1RJec6J34",
+
+  "domain": "https://cosmic-humorous-fall.glitch.me",
+
+  "port": 3000
+}
